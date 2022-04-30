@@ -1,4 +1,10 @@
-# 玩转Git三剑客
+---
+
+layout: post
+title: 玩转Git三剑客
+
+---
+
 
 # Git
 
